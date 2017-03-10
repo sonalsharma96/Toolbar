@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Toolbar</string>
+    <string-array name="title">
+        <item>First</item>
+        <item>Second</item>
+        <item>third</item>
+        <item>fourth</item>
+        <item>fifth</item>
+
+</string-array>
+</resources>
